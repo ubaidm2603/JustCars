@@ -5,7 +5,7 @@ h1{
 .bar{
     background-color:rgb(23, 241, 241);
 padding: 1mm;
-margin:1cm;
+margin:40cm;
 }
 
 *{
@@ -17,4 +17,8 @@ margin:1cm;
     margin-left:auto;
     margin-right:auto;
     display:block
+}
+
+p{
+    background-color: coral
 }
